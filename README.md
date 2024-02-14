@@ -56,6 +56,7 @@ The frontend provides the following functionalities:
 ![Post Page](/Images/post%20page.png)
 ![Download in Excel](/Images/download%20in%20excel.png)
 
-
+Hint : I don't have much knowledge MySQL database i used to MongoDB but still i try to work on MySQL I am open for feedback. 
+Thank you.
 
 
