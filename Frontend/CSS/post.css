@@ -1,0 +1,16 @@
+.btn {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px 0;
+}
+
+button{
+    padding: 6px;
+    background-color: aqua;
+    border-radius: 5px;
+    border-color: none;
+}
+
+.user > h1{
+    text-align: center;
+}

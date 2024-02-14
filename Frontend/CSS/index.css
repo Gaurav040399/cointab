@@ -1,0 +1,18 @@
+#user-data{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-top: 20px;
+}
+
+#user-data > div{
+    border: 1px solid red;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;;
+}
+
+.open{
+    visibility: hidden;
+    
+}
