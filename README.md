@@ -51,10 +51,11 @@ The frontend provides the following functionalities:
 2. Implement the frontend to interact with the backend API endpoints.
 
 ## Screenshots
-![Signup Page]() 
-![Login Page]()
+![Home Page](/Images//Home%20page.png) 
+![Add User](/Images/Add%20user.png)
+![Post Page](/Images/post%20page.png)
+![Download in Excel](/Images/download%20in%20excel.png)
 
 
-[Postman Collection](./Hyperface.postman_collection.json)
 
 
