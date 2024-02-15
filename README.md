@@ -6,8 +6,8 @@ The backend provides functionalities for fetching json data, Adding into databas
 
 ### Deployed Link
 Backend in work locally right now.
- [Backend](http://localhost:8080) 
- [Frontend](https://cointabapp.netlify.app/)
+ [Backend](https://cointab-4jw1.onrender.com) 
+ [Frontend](https://cointabassignmentapp.netlify.app/)
 
  ### Video presentation link
  [Video](https://drive.google.com/file/d/1pgvN8R_qyYzyMqVBFisspBmwJ4rr7TU2/view?usp=sharing)
