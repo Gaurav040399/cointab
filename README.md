@@ -8,6 +8,9 @@ The backend provides functionalities for fetching json data, Adding into databas
 Backend in work locally right now.
  [Backend](http://localhost:8080) 
  [Frontend](https://cointabapp.netlify.app/)
+
+ ### Video presentation link
+ [Video](https://drive.google.com/file/d/1pgvN8R_qyYzyMqVBFisspBmwJ4rr7TU2/view?usp=sharing)
  
 ## Backend Functionality
 
@@ -56,6 +59,7 @@ The frontend provides the following functionalities:
 ![Post Page](/Images/post%20page.png)
 ![Download in Excel](/Images/download%20in%20excel.png)
 
-
+Hint : I don't have much knowledge MySQL database i used to MongoDB but still i try to work on MySQL I am open for feedback. 
+Thank you.
 
 
