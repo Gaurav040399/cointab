@@ -34,7 +34,7 @@
 
 
 const user_data = document.getElementById("user-data");
-let url = "http://localhost:8080";
+let url = "https://cointab-4jw1.onrender.com";
 
 
 
@@ -92,7 +92,7 @@ async function getUserData() {
                 if (openBtn) {
                     openBtn.style.visibility = "visible";
                     openBtn.addEventListener("click",()=>{
-                        location.href = "http://127.0.0.1:5500/Frontend/post.html"
+                        window.location.href = "http://127.0.0.1:5500/Frontend/post.html"
                     })
                 }
             } else {

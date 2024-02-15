@@ -3,7 +3,7 @@ let postData = document.getElementById("data");
 let bulkBtn = document.getElementById("bulk-add")
 let downloadBtn = document.getElementById("download");
 
-let url = "http://localhost:8080";
+let url = "https://cointab-4jw1.onrender.com";
 
 async function getData(){
     let res = await fetch(`${url}/posts/users-posts`)
